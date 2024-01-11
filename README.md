@@ -11,7 +11,7 @@ The project so far is a command line tool.
 
 ## Use
 ### College Admissions
-The tool was built with college admissions in mind. Each university has different GPA standards in which they base their admissions. This tool breaks down a large file of student across the nation in to manageable data for college admissions officers to use.
+The tool was built with college admissions in mind. Each university has different GPA standards in which they base their admissions. This tool breaks down a large file of students across the nation in to manageable data for college admissions officers to use.
 
 #### GPA
 High schools often offer two ways of scaling grades: Unweighted and Weighted GPA. Weighted GPAs simply track GPA on a scale that rewards AP (Advanced Placement) class grades. Unweighted GPAs treat all classes with the same scale.
