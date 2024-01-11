@@ -1,5 +1,8 @@
 # GPA Data Analysis Project
 
+## Summary
+A tool to manage data from a large file of students including their school, city, state, and grades. 
+
 ## Technologies
 - Python
 - Pandas
