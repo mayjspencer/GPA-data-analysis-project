@@ -1,0 +1,138 @@
+Name,Schoolname,City,State,Grade1,Grade2,Grade3,Grade4,Grade5,Course1,Course2,Course3,Course4,Course5,Extracurricular
+John,Memorial,Dallas,Texas, A, B, B, A, A, OL, AP, OL, AP, OL, Soccer
+Jane,Memorial,Dallas,Texas, B, C, C, B, A, AP, OL, AP, OL, AP, Basketball
+Bob,Memorial,Dallas,Texas, C, B, C, B, B, OL, AP, OL, AP, OL, Band
+Alice,North,Edmond,Oklahoma, A, A, B, C, C, AP, OL, AP, OL, AP, Drama
+Charlie,North,Edmond,Oklahoma, B, B, C, A, A, OL, AP, OL, AP, OL, Chess Club
+David,North,Edmond,Oklahoma, C, C, C, B, A, AP, OL, AP, OL, AP, Football
+Eva,Santa Fe,Orange,California, C, C, A, B, B, OL, AP, OL, AP, OL, Debate
+Frank,Santa Fe,Orange,California, A, A, B, C, C, OL, AP, OL, AP, OL, Volleyball
+Grace,Santa Fe,Orange,California, A, B, C, A, B, AP, OL, AP, OL, AP, Track and Field
+Harry,Aliso Niguel,Frankfurt,Tennessee, B, B, A, A, A, OL, AP, OL, AP, OL, Swimming
+Ivy,Aliso Niguel,Frankfurt,Tennessee, C, C, B, A, A, AP, OL, AP, OL, AP, Art Club
+Eve,Santa Fe,Orange,California, F, F, F, D, D, OL, Drama Club
+Fred,Aliso Niguel,Frankfurt,Tennessee, D, D, D, F, F, AP, Football
+Eve,Santa Fe,Orange,California, F, F, F, D, D, OL, Drama Club
+Fred,Aliso Niguel,Frankfurt,Tennessee, D, D, D, F, F, AP, Football
+Sam,Oakridge,Orlando,Florida, B, C, A, B, B, OL, AP, OL, AP, OL, Photography
+Emily,Sunrise,Los Angeles,California, A, A, B, C, C, AP, OL, AP, OL, AP, Tennis
+Alex,Westwood,New York,New York, A, B, C, A, A, OL, AP, OL, AP, OL, Coding Club
+Olivia,Lakeview,Chicago,Illinois, B, C, D, F, F, AP, Volleyball
+Noah,Green Hills,Nashville,Tennessee, A, B, C, A, A, OL, AP, OL, AP, OL, Science Club
+Sophie,Harmony,Denver,Colorado, C, C, A, B, B, OL, AP, OL, AP, OL, Dance
+Liam,Sunset,San Francisco,California, A, A, B, C, C, AP, OL, AP, OL, AP, Basketball
+Mia,Silicon Valley,San Jose,California, B, B, C, A, A, OL, AP, OL, AP, OL, Robotics Club
+Emma,Sunrise,Los Angeles,California, A, A, B, C, C, AP, OL, AP, OL, AP, Dance
+William,Green Hills,Nashville,Tennessee, B, C, D, F, F, AP, Football
+Ava,Silicon Valley,San Jose,California, C, C, A, B, B, OL, AP, OL, AP, OL, Art Club
+James,Oakridge,Orlando,Florida, A, B, C, A, A, OL, AP, OL, AP, OL, Science Club
+Isabella,Harmony,Denver,Colorado, B, B, A, A, A, OL, AP, OL, AP, OL, Tennis
+Logan,Westwood,New York,New York, C, C, B, A, A, AP, OL, AP, OL, AP, Robotics Club
+Sophia,Lakeview,Chicago,Illinois, A, B, B, A, A, OL, AP, OL, AP, OL, Volleyball
+Jackson,Sunset,San Francisco,California, B, B, C, A, A, OL, AP, OL, AP, OL, Basketball
+Oliver,Santa Clara,Santa Clara,California, C, C, A, B, B, OL, AP, OL, AP, OL, Coding Club
+Emily,Sunset,San Francisco,California, A, A, B, C, C, AP, OL, AP, OL, AP, Basketball
+Daniel,Silicon Valley,San Jose,California, B, B, C, A, A, OL, AP, OL, AP, OL, Robotics Club
+Aria,Sunrise,Los Angeles,California, C, C, A, B, B, AP, OL, AP, OL, AP, Drama Club
+Ethan,Oakridge,Orlando,Florida, F, F, F, D, D, OL, Chess Club
+Madison,Harmony,Denver,Colorado, A, B, C, D, F, AP, Track and Field
+Liam,Green Hills,Nashville,Tennessee, B, C, A, B, B, OL, AP, OL, AP, OL, Science Club
+Ava,Sunset,San Francisco,California, A, A, B, C, C, OL, AP, OL, AP, OL, Tennis
+Noah,Silicon Valley,San Jose,California, B, B, C, A, A, AP, OL, AP, OL, AP, Coding Club
+Sophia,Westwood,New York,New York, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+Oliver,Lakeview,Chicago,Illinois, A, B, B, A, A, AP, OL, AP, OL, AP, Volleyball
+Emma,Santa Clara,Santa Clara,California, B, B, C, A, A, OL, AP, OL, AP, OL, Coding Club
+William,Sunset,San Francisco,California, C, C, A, B, B, AP, OL, AP, OL, AP, Soccer
+Ava,Sunrise,Los Angeles,California, A, A, B, C, C, OL, AP, OL, AP, OL, Dance
+James,Oakridge,Orlando,Florida, B, C, D, F, F, AP, Football
+Sophia,Harmony,Denver,Colorado, C, C, A, B, B, OL, AP, OL, AP, OL, Tennis
+Logan,Westwood,New York,New York, A, B, C, A, A, AP, OL, AP, OL, AP, Basketball
+Olivia,Lakeview,Chicago,Illinois, B, C, D, F, F, OL, Volleyball
+Ethan,Green Hills,Nashville,Tennessee, A, B, C, A, A, OL, AP, OL, AP, OL, Science Club
+Grace,Santa Clara,Santa Clara,California, B, B, A, A, A, AP, OL, AP, OL, AP, Track and Field
+Daniel,Sunset,San Francisco,California, C, C, B, A, A, OL, AP, OL, AP, OL, Coding Club
+Mia,Silicon Valley,San Jose,California, A, A, B, C, C, AP, OL, AP, OL, AP, Robotics Club
+Emma,Summit,Denver,Colorado, A, B, B, A, A, OL, AP, OL, AP, OL, Chess Club
+William,Riverside,Los Angeles,California, B, C, C, B, A, AP, OL, AP, OL, AP, Baseball
+Ava,Cypress,Anaheim,California, C, B, C, B, B, OL, AP, OL, AP, OL, Science Club
+James,Meadows,Dallas,Texas, A, A, B, C, C, AP, OL, AP, OL, AP, Soccer
+Isabella,Sunrise,San Francisco,California, B, B, C, A, A, OL, AP, OL, AP, OL, Drama Club
+Logan,Parkside,Miami,Florida, C, C, C, B, A, OL, AP, OL, AP, OL, Volleyball
+Sophia,Pacific,Los Angeles,California, C, C, A, B, B, AP, OL, AP, OL, AP, Track and Field
+Jackson,Maple,New York,New York, A, B, B, A, A, OL, AP, OL, AP, OL, Photography
+Olivia,Westside,Chicago,Illinois, B, C, D, F, F, OL, Volleyball
+Ethan,Oceanview,Miami,Florida, A, B, C, A, A, AP, OL, AP, OL, AP, Coding Club
+Grace,Sierra,San Jose,California, B, B, A, A, A, AP, OL, AP, OL, AP, Art Club
+Daniel,Liberty,Phoenix,Arizona, C, C, B, A, A, OL, AP, OL, AP, OL, Football
+Aria,Meadows,Dallas,Texas, F, F, F, D, D, OL, Music Club
+Liam,Pacific,Los Angeles,California, A, A, B, C, C, AP, OL, AP, OL, AP, Basketball
+Ava,Green Hills,Nashville,Tennessee, B, C, A, B, B, OL, AP, OL, AP, OL, Science Club
+Noah,Meadows,Dallas,Texas, C, C, A, B, B, AP, OL, AP, OL, AP, Soccer
+Sophia,Oceanview,Miami,Florida, A, A, B, C, C, OL, AP, OL, AP, OL, Dance
+Oliver,Sierra,San Jose,California, B, B, C, A, A, AP, OL, AP, OL, AP, Coding Club
+Emma,Riverside,Los Angeles,California, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+William,Summit,Denver,Colorado, C, C, A, B, B, AP, OL, AP, OL, AP, Basketball
+Ava,Liberty,Phoenix,Arizona, A, A, B, C, C, OL, AP, OL, AP, OL, Volleyball
+James,Oceanview,Miami,Florida, B, C, D, F, F, AP, Football
+Sophia,Pacific,Los Angeles,California, C, C, A, B, B, OL, AP, OL, AP, OL, Tennis
+Logan,Meadows,Dallas,Texas, A, B, B, A, A, AP, OL, AP, OL, AP, Art Club
+Olivia,Sunrise,San Francisco,California, B, C, D, F, F, OL, Volleyball
+Ethan,Riverside,Los Angeles,California, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+Grace,Oceanview,Miami,Florida, A, B, C, A, A, AP, OL, AP, OL, AP, Track and Field
+Daniel,Summit,Denver,Colorado, B, B, A, A, A, OL, AP, OL, AP, OL, Soccer
+Mia,Liberty,Phoenix,Arizona, C, C, B, A, A, AP, OL, AP, OL, AP, Dance
+Liam,Sunrise,Miami,Florida, A, B, C, D, F, AP, OL, AP, OL, AP, Basketball
+Olivia,Pacific,San Francisco,California, B, B, A, A, A, OL, AP, OL, AP, OL, Chess Club
+Ethan,Harmony,Denver,Colorado, C, C, B, A, A, OL, AP, OL, AP, OL, Track and Field
+Ava,Westwood,New York,New York, A, A, B, C, C, AP, OL, AP, OL, AP, Soccer
+Sophia,Sunset,Los Angeles,California, B, C, D, F, F, OL, Volleyball
+Logan,Santa Clara,Santa Clara,California, C, C, A, B, B, AP, OL, AP, OL, AP, Dance
+Jackson,Maple,Chicago,Illinois, A, B, B, A, A, OL, AP, OL, AP, OL, Photography
+Aria,Sunrise,Phoenix,Arizona, B, C, C, B, A, OL, AP, OL, AP, OL, Music Club
+Oliver,Sierra,San Jose,California, C, C, A, A, A, AP, OL, AP, OL, AP, Art Club
+Emma,Green Hills,Nashville,Tennessee, A, B, B, A, A, OL, AP, OL, AP, OL, Coding Club
+William,Sunset,Miami,Florida, B, B, A, A, A, AP, OL, AP, OL, AP, Basketball
+Ava,Summit,Los Angeles,California, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+James,Meadows,Dallas,Texas, F, F, F, D, D, AP, OL, Basketball
+Isabella,Liberty,Orlando,Florida, A, A, B, C, C, OL, AP, OL, AP, OL, Drama Club
+Logan,Sunrise,Denver,Colorado, B, C, D, F, F, AP, Football
+Sophia,Westwood,Los Angeles,California, C, C, A, B, B, OL, AP, OL, AP, OL, Tennis
+Olivia,Riverside,New York,New York, A, B, B, A, A, OL, AP, OL, AP, OL, Track and Field
+Ethan,Meadows,San Francisco,California, B, C, D, F, F, OL, Coding Club
+Grace,Oceanview,Phoenix,Arizona, A, A, B, C, C, AP, OL, AP, OL, AP, Volleyball
+Daniel,Pacific,Chicago,Illinois, C, C, B, A, A, OL, AP, OL, AP, OL, Soccer
+Aria,Sunset,Los Angeles,California, A, B, B, A, A, AP, OL, AP, OL, AP, Photography
+Liam,Sierra,Miami,Florida, B, C, D, F, F, OL, AP, OL, AP, OL, Chess Club
+Ava,Sunset,San Francisco,California, C, C, A, B, B, AP, OL, AP, OL, AP, Soccer
+Noah,Meadows,New York,New York, A, A, B, C, C, OL, AP, OL, AP, OL, Dance
+Sophia,Oceanview,San Jose,California, B, B, A, A, A, AP, OL, AP, OL, AP, Football
+Oliver,Riverside,Santa Clara,California, C, C, B, A, A, OL, AP, OL, AP, OL, Tennis
+Emma,Green Hills,Nashville,Tennessee, A, B, B, A, A, OL, AP, OL, AP, OL, Science Club
+William,Sunset,San Francisco,California, B, C, C, B, A, AP, OL, AP, OL, AP, Basketball
+Ava,Westwood,New York,New York, C, B, C, B, B, OL, AP, OL, AP, OL, Track and Field
+James,Santa Clara,Santa Clara,California, A, A, B, C, C, AP, OL, AP, OL, AP, Tennis
+Isabella,Harmony,Denver,Colorado, B, B, A, A, A, OL, AP, OL, AP, OL, Chess Club
+Logan,Maple,New York,New York, C, C, C, B, A, AP, OL, AP, OL, AP, Soccer
+Sophia,Summit,Denver,Colorado, C, C, A, B, B, OL, AP, OL, AP, OL, Dance
+Jackson,Sunrise,San Francisco,California, A, B, B, A, A, OL, AP, OL, AP, OL, Photography
+Olivia,Sunrise,Los Angeles,California, B, C, D, F, F, AP, Volleyball
+Ethan,Meadows,Dallas,Texas, A, B, C, A, A, OL, AP, OL, AP, OL, Basketball
+Grace,Sunrise,Los Angeles,California, B, B, A, A, A, AP, OL, AP, OL, AP, Art Club
+Daniel,Liberty,Phoenix,Arizona, C, C, B, A, A, OL, AP, OL, AP, OL, Coding Club
+Aria,Westside,Chicago,Illinois, F, F, F, D, D, OL, Music Club
+Liam,Sunset,San Francisco,California, A, A, B, C, C, AP, OL, AP, OL, AP, Basketball
+Ava,Pacific,Los Angeles,California, B, C, A, B, B, OL, AP, OL, AP, OL, Robotics Club
+Noah,Maple,New York,New York, C, C, A, B, B, AP, OL, AP, OL, AP, Soccer
+Sophia,Sunrise,San Francisco,California, A, A, B, C, C, OL, AP, OL, AP, OL, Dance
+Oliver,Riverside,Los Angeles,California, B, B, C, A, A, AP, OL, AP, OL, AP, Coding Club
+Emma,Riverside,Los Angeles,California, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+William,Summit,Denver,Colorado, C, C, A, B, B, AP, OL, AP, OL, AP, Basketball
+Ava,Liberty,Phoenix,Arizona, A, A, B, C, C, OL, AP, OL, AP, OL, Volleyball
+James,Oceanview,Miami,Florida, B, C, D, F, F, AP, Football
+Sophia,Pacific,Los Angeles,California, C, C, A, B, B, OL, AP, OL, AP, OL, Tennis
+Logan,Meadows,Dallas,Texas, A, B, B, A, A, AP, OL, AP, OL, AP, Art Club
+Olivia,Sunrise,San Francisco,California, B, C, D, F, F, OL, Volleyball
+Ethan,Riverside,Los Angeles,California, C, C, B, A, A, OL, AP, OL, AP, OL, Robotics Club
+Grace,Oceanview,Miami,Florida, A, B, C, A, A, AP, OL, AP, OL, AP, Track and Field
+Daniel,Summit,Denver,Colorado, B, B, A, A, A, OL, AP, OL, AP, OL, Soccer
+Mia,Liberty,Phoenix,Arizona, C, C, B, A, A, AP, OL, AP, OL, AP, Dance
